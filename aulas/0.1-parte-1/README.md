@@ -2,7 +2,7 @@
 
 **No vídeo:** O que é AI-DLC: o agente pergunta antes de programar
 
-Vídeo da playlist "Curso de AI-DLC em português: desenvolvimento com agentes de IA, da ideia ao código", no canal MonogramaTech no YouTube.
+Vídeo da playlist "Curso de AI-DLC: desenvolvimento com agentes de IA, da ideia ao deploy", no canal MonogramaTech no YouTube.
 
 ## O que esta parte mostra
 
