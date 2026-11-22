@@ -13,7 +13,7 @@ Nesta parte você vê:
 - por que tão poucos: dezenas de especialistas estreitos recriariam as passagens de bastão da cascata;
 - os revisores: em que etapas entram, o que leem e o veredito pronto ou não pronto;
 - o maestro e o motor: o maestro executa o passo e conversa com você, e o motor, determinístico, guarda a rota entre as etapas;
-- o motor na captura: as primeiras respostas dele, e as 89 vezes que o maestro perguntou o próximo passo;
+- o motor na captura: as primeiras respostas dele, e as 85 vezes que o maestro perguntou o próximo passo;
 - como cada etapa roda: na conversa, num subagente, numa corrente ou em grupo.
 
 Laboratório: aidlc-workflows v2.11.4 (commit 61fdb12) no Claude Code, com o Sonnet 5.5, na execução da Aula 0.2 (sete sessões de 18 a 20/11/2026); o repositório suporta outros harnesses, e o curso usa um, sem ranking. O app de chamados é um exemplo.
