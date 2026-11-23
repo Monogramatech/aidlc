@@ -33,6 +33,7 @@ execução.
 | --- | --- | --- | --- |
 | [0.1 · Parte 1](aulas/0.1-parte-1/) | Do assistente de código ao ciclo auditável | sim | 1 |
 | [0.2 · Parte 1](aulas/0.2-parte-1/) | Um pedido, cinco fases | — | 1 |
+| [1.1 · Parte 1](aulas/1.1-parte-1/) | As cinco fases e o que cada uma entrega | — | 1 |
 
 Cada pasta tem um README com o que a parte mostra, o bloco "Reproduza", os exercícios com uma boa resposta e as fontes.
 
