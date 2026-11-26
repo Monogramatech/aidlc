@@ -36,6 +36,7 @@ execução.
 | [1.1 · Parte 1](aulas/1.1-parte-1/) | As cinco fases e o que cada uma entrega | — | 1 |
 | [1.1 · Parte 2](aulas/1.1-parte-2/) | As 33 etapas sem decorar: o que cada uma consome e produz | — | 1 |
 | [1.2 · Parte 1](aulas/1.2-parte-1/) | Onze escopos, da correção de bug ao trabalho regulado | — | 1 |
+| [1.3 · Parte 1](aulas/1.3-parte-1/) | Catorze agentes, um maestro e um motor | — | 1 |
 
 Cada pasta tem um README com o que a parte mostra, o bloco "Reproduza", os exercícios com uma boa resposta e as fontes.
 
